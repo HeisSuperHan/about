@@ -1,0 +1,6 @@
+{
+  "name": "About me",
+  "tagline": "",
+  "body": "#我的简历\r\n-姓名：韩超级 // 性别：男 // 出生日期：1994-11-11 // 籍贯：浙江宁波 // 爱好：code and hack\r\n##教育经历：\r\n-宁波工程学院 全日制本科 2013年至今，2017届毕业生\r\n##比较喜欢以下三个：\r\n-Linux、Python、HTTP协议\r\n##就职方向：\r\n-Python开发、服务端开发、数据挖掘、爬虫工程师、机器学习\r\n##熟悉的技术以及框架：\r\n-语言：Python、Html、Css、Javascript  <br>\r\n-系统：一直是Linux，使用过Kali、Centos、Debian、Ubuntu，目前稳定Ubuntu <br>\r\n-协议：HTTP协议，通读《HTTP权威指南》<br>\r\n-GUI：wxpython <br>\r\n-Web框架：Django、Tornado、Flask，目前主要使用Flask以及Tornado <br>\r\n-数据分析：ipython、numpy、pandas、不喜欢anaconda.即将踏上kaggle征途 <br>\r\n-机器学习：《集体编程智慧》，那时年少没读懂 <br>\r\n-爬虫：使用过国人的Pyspider和Scrapy.目前喜欢自己结合http模块手写爬虫 <br>\r\n-数据库：Mysql、Mongodb、Sqlite <br>\r\n##联系我：\r\n-Gmail：heissuperhan@gmail.com <br>\r\n-Phone: MTU3MjgwNDE1MTk= <br>\r\n-Website:115.28.221.122 <br>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
